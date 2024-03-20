@@ -23,4 +23,4 @@
 ## Contact Me
 - ✉️ Email: [khadkagopal.mail@gmail.com](mailto:khadkagopal.mail@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/gopal](https://www.linkedin.com/in/gopal-khadka-1523b3260/)
-- 🌐 Portfolio: [gopalkhadka.netlify.app](https://www.gopalkhadka.netlify.app)
+- 🌐 Portfolio: [https://gopalkhadka.netlify.app/](https://gopalkhadka.netlify.app/)
