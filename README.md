@@ -1,31 +1,29 @@
-# 💫 About Me:
+# Gopal Khadka
 
-1. 🧑‍💻 Product Engineer focused on frontend, AI interfaces, and clean architecture
-2. 🖥️ Building modern, intuitive, and fast web applications
-3. 🤖 Exploring AI agents, applied AI workflows, and intelligent UIs
-4. ⚙️ End-to-end builder who loves turning ideas into real products
-5. 🔍 Believer in planning, reasoning, and architecture before coding
-6. 🎨 Crafting familiar, user-friendly UX with thoughtful design taste
-7. 🚀 Early-stage R&D mindset with a bias for rapid prototyping
-8. 📘 Self-taught engineer committed to consistent learning and growth
-9. 🛠️ Fan of config-driven systems, refactoring, and single-responsibility components
-10. ✨ Curious, fast-learning, and driven by a builder’s mindset
+Product engineer from Nepal. I build AI agents, then I build the evals that keep them honest.
 
+Right now I'm a Member of Technical Staff (Full Stack & AI) at DevDash Labs.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gopal-khadka) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@khadkagopal) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Gopal_khadkaa) 
+## Building on the side
 
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Gopal-Khadka&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Gopal-Khadka&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gopal-Khadka&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[Niko](https://nikoapps.github.io): simple, free Android apps for people mainstream apps leave out, like people who can't read, older people and people with low vision. Every app does one everyday job, speaks out loud and works offline.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+- Niko Clock says the time out loud when you tap it, shake the phone or every hour.
+- Niko Dialer calls family with a tap on their photo, and says the name first so a wrong tap can be stopped.
 
----
-[![](https://visitcount.itsvg.in/api?id=Gopal-Khadka&icon=2&color=0)](https://visitcount.itsvg.in)
+Both are in test release. Source on [GitHub](https://github.com/NikoApps).
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Things I've worked on
+
+- [alkemy OS](https://gopalkhadka.com.np/projects/alkemy-os): a deal-creation platform for consulting partners.
+- [Atlantis](https://gopalkhadka.com.np/projects/atlantis): an AI deep-research tool.
+- [IDentiFI](https://gopalkhadka.com.np/projects/identifi): early warning signal detection.
+
+More on [my site](https://gopalkhadka.com.np/projects), and what I'm thinking about in [Thoughts](https://gopalkhadka.com.np/thoughts).
+
+## Elsewhere
+
+- Site: [gopalkhadka.com.np](https://gopalkhadka.com.np)
+- [LinkedIn](https://linkedin.com/in/gopal-khadka) · [X](https://x.com/Gopal_khadkaa) · [Medium](https://medium.com/@khadkagopal)
+
+Mostly TypeScript, React and Next.js on the front, Python and FastAPI behind, LangGraph for agents.
