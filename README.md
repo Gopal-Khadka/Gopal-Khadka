@@ -24,6 +24,7 @@ More on [my site](https://gopalkhadka.com.np/projects), and what I'm thinking ab
 ## Elsewhere
 
 - Site: [gopalkhadka.com.np](https://gopalkhadka.com.np)
+- The loud version of the site: [gopalkhadka.com.np/play](https://gopalkhadka.com.np/play)
 - [LinkedIn](https://linkedin.com/in/gopal-khadka) · [X](https://x.com/Gopal_khadkaa) · [Medium](https://medium.com/@khadkagopal)
 
 Mostly TypeScript, React and Next.js on the front, Python and FastAPI behind, LangGraph for agents.
